@@ -1,0 +1,25 @@
+{
+  "name": "sample_nodemailer",
+  "version": "0.1.0",
+  "description": "Nodemailer sample code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinorina/sample_nodemailer.git"
+  },
+  "keywords": [
+    "Nodemailer"
+  ],
+  "author": "Akinori Nakata <nakata@real-its.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akinorina/sample_nodemailer/issues"
+  },
+  "homepage": "https://github.com/akinorina/sample_nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.0"
+  }
+}
